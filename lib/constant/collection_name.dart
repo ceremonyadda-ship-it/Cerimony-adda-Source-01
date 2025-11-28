@@ -1,0 +1,37 @@
+class CollectionName {
+  static const String users = "users";
+  static const String onBoarding = "on_boarding";
+  static const String bookedTable = "booked_table";
+  static const String chatDriver = "chat_driver";
+  static const String chatRestaurant = "chat_restaurant";
+  static const String coupons = "coupons";
+  static const String currencies = "currencies";
+  static const String documents = "documents";
+  static const String documentsVerify = "documents_verify";
+  static const String driverPayouts = "driver_payouts";
+  static const String dynamicNotification = "dynamic_notification";
+  static const String emailTemplates = "email_templates";
+  static const String favoriteItem = "favorite_item";
+  static const String favoriteRestaurant = "favorite_restaurant";
+  static const String foodsReview = "foods_review";
+  static const String giftCards = "gift_cards";
+  static const String giftPurchases = "gift_purchases";
+  static const String menuItems = "menu_items";
+  static const String notifications = "notifications";
+  static const String payouts = "payouts";
+  static const String referral = "referral";
+  static const String restaurantOrders = "restaurant_orders";
+  static const String reviewAttributes = "review_attributes";
+  static const String settings = "settings";
+  static const String story = "story";
+  static const String tax = "tax";
+  static const String vendorAttributes = "vendor_attributes";
+  static const String vendorCategories = "vendor_categories";
+  static const String vendorProducts = "vendor_products";
+  static const String vendors = "vendors";
+  static const String wallet = "wallet";
+  static const String withdrawMethod = "withdraw_method";
+  static const String zone = "zone";
+  static const String advertisements = "advertisements";
+  static const String favAdvertisements = "fav_advertisements";
+}
