@@ -1,0 +1,1 @@
+/Users/mayankmodi/Documents/Project/github/foodie/customer/build/app/intermediates/cxx/RelWithDebInfo/5v5i2tj4/obj/arm64-v8a

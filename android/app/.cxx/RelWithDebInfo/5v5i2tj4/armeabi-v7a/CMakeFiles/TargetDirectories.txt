@@ -1,0 +1,2 @@
+/Users/mayankmodi/Documents/Project/github/foodie/customer/android/app/.cxx/RelWithDebInfo/5v5i2tj4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mayankmodi/Documents/Project/github/foodie/customer/android/app/.cxx/RelWithDebInfo/5v5i2tj4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
